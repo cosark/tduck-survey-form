@@ -123,6 +123,8 @@ TDuck 是一款企业级表单与数据采集平台，支持拖拽式表单设�
 
 - 方式四：前后端分离部署 https://doc.tduckcloud.com/openSource/deploy/fenli.html
 
+- 方式五：使用RepoCloud一键部署 https://repocloud.io/details/TDuck/
+
 
 ### 相关文档
 - [填鸭表单系列产品能力对比](https://www.tduckcloud.com/doc/x/nSJMvQh6)
